@@ -17,7 +17,7 @@
 <br/><br/>
 
 <!-- Typing Animation BELOW badges -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=750&height=90&lines=🤖+Building+Intelligent+AI+Systems;🚀+Turning+Ideas+into+Real-World+ML+Solutions;🏆+3×+National+Hackathon+Winner+%7C+CGPA+9.74%2F10" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&multiline=true&width=750&height=120&lines=Building+Intelligent+AI+Systems...;Turning+Ideas+into+Real-World+ML+Solutions;3x+National+Hackathon+Winner+%7C+CGPA+9.74%2F10" alt="Typing SVG" />
 
 </div>
 
@@ -467,12 +467,8 @@
 
 <br/>
 
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vedantjn27/vedantjn27/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vedantjn27/vedantjn27/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vedantjn27/vedantjn27/output/github-contribution-grid-snake.svg">
-</picture>
+<!-- LEARNER Pixel Art Grid -->
+<img src="https://raw.githubusercontent.com/vedantjn27/vedantjn27/main/learner_grid.svg" alt="LEARNER pixel art grid" width="510"/>
 
 </div>
 
