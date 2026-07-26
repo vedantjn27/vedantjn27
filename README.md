@@ -17,7 +17,7 @@
 <br/><br/>
 
 <!-- Typing Animation BELOW badges -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&multiline=true&width=750&height=120&lines=Building+Intelligent+AI+Systems...;Turning+Ideas+into+Real-World+ML+Solutions;3x+National+Hackathon+Winner+%7C+CGPA+9.74%2F10" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&multiline=true&width=750&height=120&lines=Building+Intelligent+AI+Systems...;Turning+Ideas+into+Real-World+ML+Solutions;4x+National+Hackathon+Winner+%7C+CGPA+9.74%2F10" alt="Typing SVG" />
 
 </div>
 
@@ -37,7 +37,7 @@
 
 🤖 Currently working as an **AI Engineer Intern at Matrix Maven**, building agentic AI workflows using **LangChain & LangGraph**
 
-🏆 **3× National Hackathon Winner** with 5+ Top-10 finishes across intercollegiate competitions and **2 paper publications** in reputed conferences
+🏆 **4× National Hackathon Winner** with 5+ Top-10 finishes across intercollegiate competitions, **4 paper publications**, **1 copyright**, and **1 patent filed**
 
 🧠 Driven by an obsession to build **production-grade AI systems** that solve real-world problems at scale
 
@@ -237,16 +237,17 @@
 
 | 🏆 Project | 📝 Description | 🛠️ Stack |
 |:-----------|:---------------|:---------|
-| [**🏦 Vishwas AI**](https://github.com/vedantjn27/Vishwas-AI-Smarter-Credit-Assessment-for-Every-MSME) | Smarter Credit Assessment for MSMEs using alternate data & explainable AI with role-based credit workflows | `TypeScript` `Python` `FastAPI` `Mistral AI` |
-| [**🛡️ MedVault**](https://github.com/vedantjn27/Medvault-Medical-Privacy-Protection-Pipeline-final-implementation) | AI-Driven Healthcare Document Privacy Pipeline — Redacts 100+ PHI entity types across PDFs, DICOM & HL7/FHIR | `FastAPI` `SpaCy` `OCR` `Blockchain` |
+| [**🏦 Vishwas AI**](https://github.com/vedantjn27/Vishwas-AI-Smarter-Credit-Assessment-for-Every-MSME) | Smarter Credit Assessment for MSMEs using alternate data & explainable AI with role-based credit workflows | `TypeScript` `Python` `FastAPI` `Mistral AI` `Agentic AI` `RAG` |
+| [**🛡️ MedVault**](https://github.com/vedantjn27/Medvault-Healthcare-Document-Privacy-Pipeline-Final-Version) | AI-Driven Healthcare Document Privacy Pipeline — Redacts 100+ PHI entity types across PDFs, DICOM & HL7/FHIR | `FastAPI` `SpaCy` `OCR` `Blockchain` |
 | [**🌊 NavAIgator**](https://github.com/vedantjn27/NavAIgator-AI-Powered-Maritime-Route-Optimization-Platform) | AI-Powered Maritime Route Optimization using Genetic Algorithms balancing time, fuel & safety | `TypeScript` `Python` `Next.js` |
-| [**🌪️ ClimaX**](https://github.com/vedantjn27/ClimaX-AI-Powered-Disaster-Prediction-and-Resilience-Platform-Latest-Version) | AI-first Disaster Resilience OS — IBM Granite LLM + RAG + QAOA + Hyperledger Blockchain, 88% prediction accuracy | `FastAPI` `TypeScript` `IBM Granite` `Qiskit` |
+| [**🌪️ ClimaX**](https://github.com/vedantjn27/ClimaX-AI-Powered-Disaster-Prediction-and-Resilience-Platform-Latest-Version) | AI-first Disaster Resilience OS — IBM Granite LLM + RAG + QAOA + Hyperledger Blockchain, 88% prediction accuracy | `FastAPI` `TypeScript` `IBM Granite` `Qiskit` `Agentic AI` `RAG` |
 | [**📚 MargDarshak**](https://github.com/vedantjn27/MargDarshak-AI-Powered-Program-Design-Intelligence-Platform-for-Education-NGOs) | AI Platform for Education NGOs generating LFA & Theory of Change models with multilingual PDF/Excel/PPT export | `FastAPI` `MongoDB` `TypeScript` |
 | [**🛍️ ReTailor AI**](https://github.com/vedantjn27/ReTailorAI-Revolutionizing-Retail-Media-Advertising) | Full-stack Generative AI creative engine for the $140B+ retail media market — product photo to validated ad in minutes | `TypeScript` `Python` `Mistral AI` `HuggingFace` |
 | [**💊 PharmaSight**](https://github.com/vedantjn27/PharmaSight-AI-Powered-Drug-Shortage-Prediction-Final) | Next-gen pharmaceutical intelligence using deep learning & graph neural networks for drug shortage prediction | `Python` `TypeScript` `GNN` `FastAPI` |
 | [**🔗 ParkChain Nexus**](https://github.com/vedantjn27/ParkChain-Nexus-Blockchain-based-smart-parking-system) | Blockchain-based Smart Parking System with decentralized slot management | `TypeScript` `Blockchain` |
 | [**🤖 Samadhan AI**](https://github.com/vedantjn27/Samadhan-AI-Smart-Employee-Support-and-Ticket-Management-System) | Smart Employee Support & Ticket Management System powered by AI agents | `Python` `TypeScript` `AI/ML` |
-| [**🚁 HeliTwin**](https://github.com/vedantjn27/HeliTwin-Digital-Twin-of-a-Helicopter-Fuel-Injection-System) | Digital Twin of a Helicopter Fuel Injection System for real-time simulation | `TypeScript` `Python` `Simulation` |
+| [**🟢 PulsePoint AI**](https://github.com/vedantjn27/PulsePoint-AI-Where-Project-Health-Meets-Executive-Insight) | Autonomous project-health intelligence — deterministic RAG scoring, agentic investigation, and executive-ready reports | `FastAPI` `React` `TypeScript` `Mistral AI` `Agentic AI` |
+| [**🏎️ CarVerse Drive**](https://github.com/vedantjn27/CarVerse-Drive-A-Gamification-Engine-For-A-Real-Multi-Branch-Car-Dealership-Group) | Full-stack gamification engine that turns verified multi-branch dealership milestones into fair, live competition | `FastAPI` `React` `TypeScript` `Three.js` `Mistral AI` |
 | [**🌊 FloatChat**](https://github.com/vedantjn27/FloatChat-ARGO-Ocean-Data-Chatbot-SIH) | ARGO Ocean Data Chatbot for oceanographic research (SIH project) | `TypeScript` `NLP` `RAG` |
 | [**🚁 RescueVision**](https://github.com/vedantjn27/RescueVision-Drone-Based-Human-And-Animal-Detection-System-for-Disaster-Rescue) | Drone-Based Human & Animal Detection for Disaster Rescue using Computer Vision | `Python` `Computer Vision` `YOLO` |
 
@@ -285,11 +286,13 @@
 
 | 🏅 | Achievement | 📌 Details |
 |----|-------------|-----------|
-| 🏆 | **3× National Hackathon Winner** | 5+ Top-10 finishes across intercollegiate competitions |
+| 🏆 | **4× National Hackathon Winner** | 5+ Top-10 finishes across intercollegiate competitions |
 | 🥈 | **Silver Honour — Eureka Ideathon 2025** | BNMIT × E-Cell IIT Bombay |
 | 🔝 | **Top-5 — Mini Anveshna & BIT Ideathon 2025** | Consistent top performer across competitions |
 | 🥉 | **3rd Place — National Seminar (World Engineers Day)** | MedVault project — IEI Bengaluru |
-| 📄 | **2× Paper Publications** | Published research in reputed international conferences |
+| 📄 | **4× Paper Publications** | Published research in reputed international conferences |
+| ©️ | **1 Copyright** | Registered intellectual-property contribution |
+| 💡 | **1 Patent Filed** | Innovation protected through a filed patent application |
 | 🏏 | **State-Level Cricket Finalist** | Led school team; Man of the Match awardee |
 
 </div>
