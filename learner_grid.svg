@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="510" height="130" viewBox="0 0 510 130" role="img" aria-labelledby="title description">
+  <title id="title">LEARNER animated pixel art</title>
+  <desc id="description">The word LEARNER is written one glowing pixel at a time.</desc>
+  <defs>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="2.6" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <rect id="pixel" width="12" height="12" rx="2"/>
+    <style>
+      @keyframes writePixel {
+        0%, 5% { opacity: .2; filter: none; }
+        10%, 48% { opacity: 1; filter: url(#glow); }
+        62%, 100% { opacity: .3; filter: none; }
+      }
+      .pixel {
+        opacity: .2;
+        animation: writePixel 6s ease-in-out infinite;
+        animation-delay: calc(var(--step) * .055s);
+      }
+      @media (prefers-reduced-motion: reduce) {
+        .pixel { animation: none; opacity: 1; }
+      }
+    </style>
+  </defs>
+  <rect width="510" height="130" fill="#0d1117" rx="12"/>
+  <use href="#pixel" class="pixel" x="18" y="20" fill="#2d27b0" style="--step:0"/>
+  <use href="#pixel" class="pixel" x="18" y="34" fill="#2d27b0" style="--step:1"/>
+  <use href="#pixel" class="pixel" x="18" y="48" fill="#2d27b0" style="--step:2"/>
+  <use href="#pixel" class="pixel" x="18" y="62" fill="#2d27b0" style="--step:3"/>
+  <use href="#pixel" class="pixel" x="18" y="76" fill="#2d27b0" style="--step:4"/>
+  <use href="#pixel" class="pixel" x="32" y="76" fill="#2d27b0" style="--step:5"/>
+  <use href="#pixel" class="pixel" x="46" y="76" fill="#2d27b0" style="--step:6"/>
+  <use href="#pixel" class="pixel" x="60" y="76" fill="#2d27b0" style="--step:7"/>
+  <use href="#pixel" class="pixel" x="84" y="20" fill="#4a42d8" style="--step:8"/>
+  <use href="#pixel" class="pixel" x="98" y="20" fill="#4a42d8" style="--step:9"/>
+  <use href="#pixel" class="pixel" x="112" y="20" fill="#4a42d8" style="--step:10"/>
+  <use href="#pixel" class="pixel" x="126" y="20" fill="#4a42d8" style="--step:11"/>
+  <use href="#pixel" class="pixel" x="84" y="34" fill="#4a42d8" style="--step:12"/>
+  <use href="#pixel" class="pixel" x="84" y="48" fill="#4a42d8" style="--step:13"/>
+  <use href="#pixel" class="pixel" x="98" y="48" fill="#4a42d8" style="--step:14"/>
+  <use href="#pixel" class="pixel" x="112" y="48" fill="#4a42d8" style="--step:15"/>
+  <use href="#pixel" class="pixel" x="84" y="62" fill="#4a42d8" style="--step:16"/>
+  <use href="#pixel" class="pixel" x="84" y="76" fill="#4a42d8" style="--step:17"/>
+  <use href="#pixel" class="pixel" x="98" y="76" fill="#4a42d8" style="--step:18"/>
+  <use href="#pixel" class="pixel" x="112" y="76" fill="#4a42d8" style="--step:19"/>
+  <use href="#pixel" class="pixel" x="126" y="76" fill="#4a42d8" style="--step:20"/>
+  <use href="#pixel" class="pixel" x="164" y="20" fill="#6C63FF" style="--step:21"/>
+  <use href="#pixel" class="pixel" x="178" y="20" fill="#6C63FF" style="--step:22"/>
+  <use href="#pixel" class="pixel" x="150" y="34" fill="#6C63FF" style="--step:23"/>
+  <use href="#pixel" class="pixel" x="192" y="34" fill="#6C63FF" style="--step:24"/>
+  <use href="#pixel" class="pixel" x="150" y="48" fill="#6C63FF" style="--step:25"/>
+  <use href="#pixel" class="pixel" x="164" y="48" fill="#6C63FF" style="--step:26"/>
+  <use href="#pixel" class="pixel" x="178" y="48" fill="#6C63FF" style="--step:27"/>
+  <use href="#pixel" class="pixel" x="192" y="48" fill="#6C63FF" style="--step:28"/>
+  <use href="#pixel" class="pixel" x="150" y="62" fill="#6C63FF" style="--step:29"/>
+  <use href="#pixel" class="pixel" x="192" y="62" fill="#6C63FF" style="--step:30"/>
+  <use href="#pixel" class="pixel" x="150" y="76" fill="#6C63FF" style="--step:31"/>
+  <use href="#pixel" class="pixel" x="192" y="76" fill="#6C63FF" style="--step:32"/>
+  <use href="#pixel" class="pixel" x="216" y="20" fill="#9089ff" style="--step:33"/>
+  <use href="#pixel" class="pixel" x="230" y="20" fill="#9089ff" style="--step:34"/>
+  <use href="#pixel" class="pixel" x="244" y="20" fill="#9089ff" style="--step:35"/>
+  <use href="#pixel" class="pixel" x="216" y="34" fill="#9089ff" style="--step:36"/>
+  <use href="#pixel" class="pixel" x="258" y="34" fill="#9089ff" style="--step:37"/>
+  <use href="#pixel" class="pixel" x="216" y="48" fill="#9089ff" style="--step:38"/>
+  <use href="#pixel" class="pixel" x="230" y="48" fill="#9089ff" style="--step:39"/>
+  <use href="#pixel" class="pixel" x="244" y="48" fill="#9089ff" style="--step:40"/>
+  <use href="#pixel" class="pixel" x="216" y="62" fill="#9089ff" style="--step:41"/>
+  <use href="#pixel" class="pixel" x="244" y="62" fill="#9089ff" style="--step:42"/>
+  <use href="#pixel" class="pixel" x="216" y="76" fill="#9089ff" style="--step:43"/>
+  <use href="#pixel" class="pixel" x="258" y="76" fill="#9089ff" style="--step:44"/>
+  <use href="#pixel" class="pixel" x="282" y="20" fill="#6C63FF" style="--step:45"/>
+  <use href="#pixel" class="pixel" x="324" y="20" fill="#6C63FF" style="--step:46"/>
+  <use href="#pixel" class="pixel" x="282" y="34" fill="#6C63FF" style="--step:47"/>
+  <use href="#pixel" class="pixel" x="296" y="34" fill="#6C63FF" style="--step:48"/>
+  <use href="#pixel" class="pixel" x="324" y="34" fill="#6C63FF" style="--step:49"/>
+  <use href="#pixel" class="pixel" x="282" y="48" fill="#6C63FF" style="--step:50"/>
+  <use href="#pixel" class="pixel" x="310" y="48" fill="#6C63FF" style="--step:51"/>
+  <use href="#pixel" class="pixel" x="324" y="48" fill="#6C63FF" style="--step:52"/>
+  <use href="#pixel" class="pixel" x="282" y="62" fill="#6C63FF" style="--step:53"/>
+  <use href="#pixel" class="pixel" x="324" y="62" fill="#6C63FF" style="--step:54"/>
+  <use href="#pixel" class="pixel" x="282" y="76" fill="#6C63FF" style="--step:55"/>
+  <use href="#pixel" class="pixel" x="324" y="76" fill="#6C63FF" style="--step:56"/>
+  <use href="#pixel" class="pixel" x="348" y="20" fill="#4a42d8" style="--step:57"/>
+  <use href="#pixel" class="pixel" x="362" y="20" fill="#4a42d8" style="--step:58"/>
+  <use href="#pixel" class="pixel" x="376" y="20" fill="#4a42d8" style="--step:59"/>
+  <use href="#pixel" class="pixel" x="390" y="20" fill="#4a42d8" style="--step:60"/>
+  <use href="#pixel" class="pixel" x="348" y="34" fill="#4a42d8" style="--step:61"/>
+  <use href="#pixel" class="pixel" x="348" y="48" fill="#4a42d8" style="--step:62"/>
+  <use href="#pixel" class="pixel" x="362" y="48" fill="#4a42d8" style="--step:63"/>
+  <use href="#pixel" class="pixel" x="376" y="48" fill="#4a42d8" style="--step:64"/>
+  <use href="#pixel" class="pixel" x="348" y="62" fill="#4a42d8" style="--step:65"/>
+  <use href="#pixel" class="pixel" x="348" y="76" fill="#4a42d8" style="--step:66"/>
+  <use href="#pixel" class="pixel" x="362" y="76" fill="#4a42d8" style="--step:67"/>
+  <use href="#pixel" class="pixel" x="376" y="76" fill="#4a42d8" style="--step:68"/>
+  <use href="#pixel" class="pixel" x="390" y="76" fill="#4a42d8" style="--step:69"/>
+  <use href="#pixel" class="pixel" x="414" y="20" fill="#2d27b0" style="--step:70"/>
+  <use href="#pixel" class="pixel" x="428" y="20" fill="#2d27b0" style="--step:71"/>
+  <use href="#pixel" class="pixel" x="442" y="20" fill="#2d27b0" style="--step:72"/>
+  <use href="#pixel" class="pixel" x="414" y="34" fill="#2d27b0" style="--step:73"/>
+  <use href="#pixel" class="pixel" x="456" y="34" fill="#2d27b0" style="--step:74"/>
+  <use href="#pixel" class="pixel" x="414" y="48" fill="#2d27b0" style="--step:75"/>
+  <use href="#pixel" class="pixel" x="428" y="48" fill="#2d27b0" style="--step:76"/>
+  <use href="#pixel" class="pixel" x="442" y="48" fill="#2d27b0" style="--step:77"/>
+  <use href="#pixel" class="pixel" x="414" y="62" fill="#2d27b0" style="--step:78"/>
+  <use href="#pixel" class="pixel" x="442" y="62" fill="#2d27b0" style="--step:79"/>
+  <use href="#pixel" class="pixel" x="414" y="76" fill="#2d27b0" style="--step:80"/>
+  <use href="#pixel" class="pixel" x="456" y="76" fill="#2d27b0" style="--step:81"/>
+  <text x="255" y="118" text-anchor="middle" fill="#30363d" font-size="9" font-family="'Courier New', monospace" letter-spacing="3">✦ VEDANT JAIN • ETERNAL LEARNER ✦</text>
+</svg>
