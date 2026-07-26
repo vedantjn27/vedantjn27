@@ -237,11 +237,54 @@
 
 <div align="center">
 
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+
+### 🛡️ MedVault
+
+**AI-Driven Healthcare Document Privacy Pipeline**
+
+Redacts 100+ PHI entity types across PDFs, DICOM, and HL7/FHIR.
+
+`FastAPI` `SpaCy` `OCR` `Blockchain`
+
+[Repository](https://github.com/vedantjn27/Medvault-Healthcare-Document-Privacy-Pipeline-Final-Version) · [🚀 Live Demo](https://medvault-healthcare-document-privac.vercel.app)
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 🌪️ ClimaX
+
+**AI-First Disaster Resilience OS**
+
+IBM Granite LLM, agentic AI, RAG, QAOA, and blockchain with 88% prediction accuracy.
+
+`FastAPI` `TypeScript` `Agentic AI` `RAG`
+
+[Repository](https://github.com/vedantjn27/ClimaX-AI-Powered-Disaster-Prediction-and-Resilience-Platform-Latest-Version) · [🚀 Live Demo](https://clima-x-ai-powered-disaster-predict.vercel.app)
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 🏦 Vishwas AI
+
+**Smarter Credit Assessment for MSMEs**
+
+Explainable, alternate-data credit intelligence with role-based workflows.
+
+`FastAPI` `Mistral AI` `Agentic AI` `RAG`
+
+[Repository](https://github.com/vedantjn27/Vishwas-AI-Smarter-Credit-Assessment-for-Every-MSME) · [🚀 Live Demo](https://vishwas-ai-smarter-credit-assessmen.vercel.app)
+
+</td>
+</tr>
+</table>
+
+### More Projects
+
 | 🏆 Project | 📝 Description | 🛠️ Stack |
 |:-----------|:---------------|:---------|
-| [**🛡️ MedVault**](https://github.com/vedantjn27/Medvault-Healthcare-Document-Privacy-Pipeline-Final-Version)<br/>[🚀 Live Demo](https://medvault-healthcare-document-privac.vercel.app) | AI-Driven Healthcare Document Privacy Pipeline — Redacts 100+ PHI entity types across PDFs, DICOM & HL7/FHIR | `FastAPI` `SpaCy` `OCR` `Blockchain` |
-| [**🌪️ ClimaX**](https://github.com/vedantjn27/ClimaX-AI-Powered-Disaster-Prediction-and-Resilience-Platform-Latest-Version)<br/>[🚀 Live Demo](https://clima-x-ai-powered-disaster-predict.vercel.app) | AI-first Disaster Resilience OS — IBM Granite LLM + RAG + QAOA + Hyperledger Blockchain, 88% prediction accuracy | `FastAPI` `TypeScript` `IBM Granite` `Qiskit` `Agentic AI` `RAG` |
-| [**🏦 Vishwas AI**](https://github.com/vedantjn27/Vishwas-AI-Smarter-Credit-Assessment-for-Every-MSME)<br/>[🚀 Live Demo](https://vishwas-ai-smarter-credit-assessmen.vercel.app) | Smarter Credit Assessment for MSMEs using alternate data & explainable AI with role-based credit workflows | `TypeScript` `Python` `FastAPI` `Mistral AI` `Agentic AI` `RAG` |
 | [**🌊 NavAIgator**](https://github.com/vedantjn27/NavAIgator-AI-Powered-Maritime-Route-Optimization-Platform)<br/>[🚀 Live Demo](https://nav-ai-gator.vercel.app) | AI-Powered Maritime Route Optimization using Genetic Algorithms balancing time, fuel & safety | `TypeScript` `Python` `Next.js` |
 | [**🟢 PulsePoint AI**](https://github.com/vedantjn27/PulsePoint-AI-Where-Project-Health-Meets-Executive-Insight)<br/>[🚀 Live Demo](https://pulse-point-ai-where-project-health-roan.vercel.app) | Autonomous project-health intelligence — deterministic RAG scoring, agentic investigation, and executive-ready reports | `FastAPI` `React` `TypeScript` `Mistral AI` `Agentic AI` |
 | [**🛍️ ReTailor AI**](https://github.com/vedantjn27/ReTailorAI-Revolutionizing-Retail-Media-Advertising)<br/>[🚀 Live Demo](https://re-tailor-ai-tesco.vercel.app) | Full-stack Generative AI creative engine for the $140B+ retail media market — product photo to validated ad in minutes | `TypeScript` `Python` `Mistral AI` `HuggingFace` |
