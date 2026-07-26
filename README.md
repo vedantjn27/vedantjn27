@@ -116,11 +116,12 @@
 <td width="50%" valign="top">
 
 ### 🤖 AI Engineer Intern — Matrix Maven
-**Feb 2026 – Present**
+**Feb 2026 – May 2026**
 
 - 🔷 Building a **Compliance Intelligence Platform** modeling ISO 27000, SOC 2, and DORA controls in **Neo4j** for cross-framework mapping
 - 🔷 Implemented backend workflows for compliance discovery based on region, industry & data scope
 - 🔷 Developed **agentic AI workflows** using **LangChain & LangGraph** to automate evidence processing and monitoring
+- 🔗 [View the Compliance Mappings internship project](https://github.com/vedantjn27/Matrix-Maven-Internship-Project-Compliance-Mappings)
 
 </td>
 <td width="50%" valign="top">
@@ -130,6 +131,7 @@
 
 - 🔶 Built a **real-time car booking platform** with role-based dashboards, live tracking, and instant SMS/Email notifications
 - 🔶 Developed a **FastAPI + MongoDB** backend with dynamic ride management, driver matching (Haversine formula), analytics, and real-time **Socket.IO + Leaflet.js** updates
+- 🔗 [View the RideSmart car-booking internship project](https://github.com/vedantjn27/RideSmart-Car-Booking-System)
 
 </td>
 </tr>
@@ -237,18 +239,18 @@
 
 | 🏆 Project | 📝 Description | 🛠️ Stack |
 |:-----------|:---------------|:---------|
-| [**🏦 Vishwas AI**](https://github.com/vedantjn27/Vishwas-AI-Smarter-Credit-Assessment-for-Every-MSME) | Smarter Credit Assessment for MSMEs using alternate data & explainable AI with role-based credit workflows | `TypeScript` `Python` `FastAPI` `Mistral AI` `Agentic AI` `RAG` |
-| [**🛡️ MedVault**](https://github.com/vedantjn27/Medvault-Healthcare-Document-Privacy-Pipeline-Final-Version) | AI-Driven Healthcare Document Privacy Pipeline — Redacts 100+ PHI entity types across PDFs, DICOM & HL7/FHIR | `FastAPI` `SpaCy` `OCR` `Blockchain` |
-| [**🌊 NavAIgator**](https://github.com/vedantjn27/NavAIgator-AI-Powered-Maritime-Route-Optimization-Platform) | AI-Powered Maritime Route Optimization using Genetic Algorithms balancing time, fuel & safety | `TypeScript` `Python` `Next.js` |
-| [**🌪️ ClimaX**](https://github.com/vedantjn27/ClimaX-AI-Powered-Disaster-Prediction-and-Resilience-Platform-Latest-Version) | AI-first Disaster Resilience OS — IBM Granite LLM + RAG + QAOA + Hyperledger Blockchain, 88% prediction accuracy | `FastAPI` `TypeScript` `IBM Granite` `Qiskit` `Agentic AI` `RAG` |
-| [**📚 MargDarshak**](https://github.com/vedantjn27/MargDarshak-AI-Powered-Program-Design-Intelligence-Platform-for-Education-NGOs) | AI Platform for Education NGOs generating LFA & Theory of Change models with multilingual PDF/Excel/PPT export | `FastAPI` `MongoDB` `TypeScript` |
-| [**🛍️ ReTailor AI**](https://github.com/vedantjn27/ReTailorAI-Revolutionizing-Retail-Media-Advertising) | Full-stack Generative AI creative engine for the $140B+ retail media market — product photo to validated ad in minutes | `TypeScript` `Python` `Mistral AI` `HuggingFace` |
+| [**🛡️ MedVault**](https://github.com/vedantjn27/Medvault-Healthcare-Document-Privacy-Pipeline-Final-Version)<br/>[🚀 Live Demo](https://medvault-healthcare-document-privac.vercel.app) | AI-Driven Healthcare Document Privacy Pipeline — Redacts 100+ PHI entity types across PDFs, DICOM & HL7/FHIR | `FastAPI` `SpaCy` `OCR` `Blockchain` |
+| [**🌪️ ClimaX**](https://github.com/vedantjn27/ClimaX-AI-Powered-Disaster-Prediction-and-Resilience-Platform-Latest-Version)<br/>[🚀 Live Demo](https://clima-x-ai-powered-disaster-predict.vercel.app) | AI-first Disaster Resilience OS — IBM Granite LLM + RAG + QAOA + Hyperledger Blockchain, 88% prediction accuracy | `FastAPI` `TypeScript` `IBM Granite` `Qiskit` `Agentic AI` `RAG` |
+| [**🏦 Vishwas AI**](https://github.com/vedantjn27/Vishwas-AI-Smarter-Credit-Assessment-for-Every-MSME)<br/>[🚀 Live Demo](https://vishwas-ai-smarter-credit-assessmen.vercel.app) | Smarter Credit Assessment for MSMEs using alternate data & explainable AI with role-based credit workflows | `TypeScript` `Python` `FastAPI` `Mistral AI` `Agentic AI` `RAG` |
+| [**🌊 NavAIgator**](https://github.com/vedantjn27/NavAIgator-AI-Powered-Maritime-Route-Optimization-Platform)<br/>[🚀 Live Demo](https://nav-ai-gator.vercel.app) | AI-Powered Maritime Route Optimization using Genetic Algorithms balancing time, fuel & safety | `TypeScript` `Python` `Next.js` |
+| [**🟢 PulsePoint AI**](https://github.com/vedantjn27/PulsePoint-AI-Where-Project-Health-Meets-Executive-Insight)<br/>[🚀 Live Demo](https://pulse-point-ai-where-project-health-roan.vercel.app) | Autonomous project-health intelligence — deterministic RAG scoring, agentic investigation, and executive-ready reports | `FastAPI` `React` `TypeScript` `Mistral AI` `Agentic AI` |
+| [**🛍️ ReTailor AI**](https://github.com/vedantjn27/ReTailorAI-Revolutionizing-Retail-Media-Advertising)<br/>[🚀 Live Demo](https://re-tailor-ai-tesco.vercel.app) | Full-stack Generative AI creative engine for the $140B+ retail media market — product photo to validated ad in minutes | `TypeScript` `Python` `Mistral AI` `HuggingFace` |
+| [**🛡️ SurakshaSetu**](https://github.com/vedantjn27/SurakshaSetu-Intellingent-AI-powered-federated-UBID-platform-for-secure-business-identity)<br/>[🚀 Live Demo](https://suraksha-setu-flame.vercel.app/) | Privacy-preserving federated UBID platform that resolves fragmented business records with explainable AI | `FastAPI` `Next.js` `MongoDB` `Mistral AI` `HMAC-SHA256` |
+| [**📚 MargDarshak**](https://github.com/vedantjn27/MargDarshak-AI-Powered-Program-Design-Intelligence-Platform-for-Education-NGOs)<br/>[🚀 Live Demo](https://marg-darshak-shikshalokam.vercel.app) | AI Platform for Education NGOs generating LFA & Theory of Change models with multilingual PDF/Excel/PPT export | `FastAPI` `MongoDB` `TypeScript` |
 | [**💊 PharmaSight**](https://github.com/vedantjn27/PharmaSight-AI-Powered-Drug-Shortage-Prediction-Final) | Next-gen pharmaceutical intelligence using deep learning & graph neural networks for drug shortage prediction | `Python` `TypeScript` `GNN` `FastAPI` |
 | [**🔗 ParkChain Nexus**](https://github.com/vedantjn27/ParkChain-Nexus-Blockchain-based-smart-parking-system) | Blockchain-based Smart Parking System with decentralized slot management | `TypeScript` `Blockchain` |
 | [**🤖 Samadhan AI**](https://github.com/vedantjn27/Samadhan-AI-Smart-Employee-Support-and-Ticket-Management-System) | Smart Employee Support & Ticket Management System powered by AI agents | `Python` `TypeScript` `AI/ML` |
-| [**🟢 PulsePoint AI**](https://github.com/vedantjn27/PulsePoint-AI-Where-Project-Health-Meets-Executive-Insight) | Autonomous project-health intelligence — deterministic RAG scoring, agentic investigation, and executive-ready reports | `FastAPI` `React` `TypeScript` `Mistral AI` `Agentic AI` |
-| [**🏎️ CarVerse Drive**](https://github.com/vedantjn27/CarVerse-Drive-A-Gamification-Engine-For-A-Real-Multi-Branch-Car-Dealership-Group) | Full-stack gamification engine that turns verified multi-branch dealership milestones into fair, live competition | `FastAPI` `React` `TypeScript` `Three.js` `Mistral AI` |
-| [**🌊 FloatChat**](https://github.com/vedantjn27/FloatChat-ARGO-Ocean-Data-Chatbot-SIH) | ARGO Ocean Data Chatbot for oceanographic research (SIH project) | `TypeScript` `NLP` `RAG` |
+| [**🏎️ CarVerse Drive**](https://github.com/vedantjn27/CarVerse-Drive-A-Gamification-Engine-For-A-Real-Multi-Branch-Car-Dealership-Group)<br/>[🚀 Live Demo](https://car-verse-drive-a-gamification-engi.vercel.app) | Full-stack gamification engine that turns verified multi-branch dealership milestones into fair, live competition | `FastAPI` `React` `TypeScript` `Three.js` `Mistral AI` |
 | [**🚁 RescueVision**](https://github.com/vedantjn27/RescueVision-Drone-Based-Human-And-Animal-Detection-System-for-Disaster-Rescue) | Drone-Based Human & Animal Detection for Disaster Rescue using Computer Vision | `Python` `Computer Vision` `YOLO` |
 
 </div>
