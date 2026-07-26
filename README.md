@@ -73,6 +73,10 @@
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/Have_an_AI_problem_worth_solving%3F-Let's_build_it.-6C63FF?style=for-the-badge&labelColor=0D1117" alt="Have an AI problem worth solving? Let's build it." />
+
+<br/><br/>
+
 <a href="https://www.linkedin.com/in/vedant-jain-858348318" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
@@ -109,35 +113,48 @@
 
 ---
 
+<img src="./assets/section-divider.svg" width="100%" height="10" alt="" />
+
 ## 💼 Experience
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 AI Engineer Intern — Matrix Maven
+<img src="https://img.shields.io/badge/INTERNSHIP-Matrix_Maven-6C63FF?style=for-the-badge&logo=neo4j&logoColor=white" alt="Matrix Maven internship" />
+
+#### AI Engineer Intern
 **Feb 2026 – May 2026**
 
-- 🔷 Building a **Compliance Intelligence Platform** modeling ISO 27000, SOC 2, and DORA controls in **Neo4j** for cross-framework mapping
-- 🔷 Implemented backend workflows for compliance discovery based on region, industry & data scope
-- 🔷 Developed **agentic AI workflows** using **LangChain & LangGraph** to automate evidence processing and monitoring
-- 🔗 [View the Compliance Mappings internship project](https://github.com/vedantjn27/Matrix-Maven-Internship-Project-Compliance-Mappings)
+<sub>Enterprise AI · Compliance Intelligence</sub>
+
+- 🔷 Built a **Neo4j-powered compliance intelligence platform** mapping ISO 27000, SOC 2, and DORA controls across frameworks.
+- 🔷 Developed **agentic LangChain + LangGraph workflows** for evidence processing, discovery, and continuous monitoring.
+
+<a href="https://github.com/vedantjn27/Matrix-Maven-Internship-Project-Compliance-Mappings"><img src="https://img.shields.io/badge/View_Work-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="View Matrix Maven internship work" /></a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🚗 Project Intern — AidelTecz
+<img src="https://img.shields.io/badge/INTERNSHIP-AidelTecz-00A67E?style=for-the-badge&logo=fastapi&logoColor=white" alt="AidelTecz internship" />
+
+#### Project Intern
 **May 2025 – Jul 2025**
 
-- 🔶 Built a **real-time car booking platform** with role-based dashboards, live tracking, and instant SMS/Email notifications
-- 🔶 Developed a **FastAPI + MongoDB** backend with dynamic ride management, driver matching (Haversine formula), analytics, and real-time **Socket.IO + Leaflet.js** updates
-- 🔗 [View the RideSmart car-booking internship project](https://github.com/vedantjn27/RideSmart-Car-Booking-System)
+<sub>MobilityTech · Real-Time Systems</sub>
+
+- 🔶 Built a **real-time car-booking platform** with role-based dashboards, live tracking, and instant SMS/email notifications.
+- 🔶 Engineered a **FastAPI + MongoDB backend** with driver matching, analytics, and real-time Socket.IO + Leaflet.js updates.
+
+<a href="https://github.com/vedantjn27/RideSmart-Car-Booking-System"><img src="https://img.shields.io/badge/View_Work-00A67E?style=for-the-badge&logo=github&logoColor=white" alt="View RideSmart internship work" /></a>
 
 </td>
 </tr>
 </table>
 
 ---
+
+<img src="./assets/section-divider.svg" width="100%" height="10" alt="" />
 
 ## 🛠️ Tech Stack & Skills
 
@@ -233,6 +250,8 @@
 
 ---
 
+<img src="./assets/section-divider.svg" width="100%" height="10" alt="" />
+
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -241,41 +260,62 @@
 <tr>
 <td width="33%" valign="top" align="center">
 
-### 🛡️ MedVault
+<img src="https://img.shields.io/badge/TOP_PROJECT-MedVault-DC2626?style=for-the-badge&logo=shield&logoColor=white" alt="MedVault top project" />
+<br/>
+<img src="https://img.shields.io/badge/Healthcare_AI-0F766E?style=flat-square" alt="Healthcare AI" />
 
-**AI-Driven Healthcare Document Privacy Pipeline**
+<a href="https://medvault-healthcare-document-privac.vercel.app"><img src="./assets/featured-projects/medvault.png" alt="MedVault healthcare document privacy pipeline" width="100%" /></a>
+
+#### AI-Driven Healthcare Document Privacy Pipeline
+
+*Privacy-first AI for sensitive healthcare data.*
 
 Redacts 100+ PHI entity types across PDFs, DICOM, and HL7/FHIR.
 
-`FastAPI` `SpaCy` `OCR` `Blockchain`
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/SpaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white" alt="SpaCy" /> <img src="https://img.shields.io/badge/OCR-DC2626?style=flat-square" alt="OCR" /> <img src="https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchaindotcom&logoColor=white" alt="Blockchain" />
 
-[Repository](https://github.com/vedantjn27/Medvault-Healthcare-Document-Privacy-Pipeline-Final-Version) · [🚀 Live Demo](https://medvault-healthcare-document-privac.vercel.app)
+<a href="https://github.com/vedantjn27/Medvault-Healthcare-Document-Privacy-Pipeline-Final-Version"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="MedVault repository" /></a><br/>
+<a href="https://medvault-healthcare-document-privac.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-00A67E?style=for-the-badge&logo=vercel&logoColor=white" alt="MedVault live demo" /></a>
 
 </td>
 <td width="33%" valign="top" align="center">
 
-### 🌪️ ClimaX
+<img src="https://img.shields.io/badge/TOP_PROJECT-ClimaX-0284C7?style=for-the-badge&logo=cloudflare&logoColor=white" alt="ClimaX top project" />
+<br/>
+<img src="https://img.shields.io/badge/ClimateTech-0284C7?style=flat-square" alt="ClimateTech" />
 
-**AI-First Disaster Resilience OS**
+<a href="https://clima-x-ai-powered-disaster-predict.vercel.app"><img src="./assets/featured-projects/climax.png" alt="ClimaX climate resilience intelligence dashboard" width="100%" /></a>
+
+#### AI-First Disaster Resilience OS
+
+*Predict, prepare, and respond with intelligence.*
 
 IBM Granite LLM, agentic AI, RAG, QAOA, and blockchain with 88% prediction accuracy.
 
-`FastAPI` `TypeScript` `Agentic AI` `RAG`
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Agentic_AI-7C3AED?style=flat-square" alt="Agentic AI" /> <img src="https://img.shields.io/badge/RAG-0284C7?style=flat-square" alt="RAG" />
 
-[Repository](https://github.com/vedantjn27/ClimaX-AI-Powered-Disaster-Prediction-and-Resilience-Platform-Latest-Version) · [🚀 Live Demo](https://clima-x-ai-powered-disaster-predict.vercel.app)
+<a href="https://github.com/vedantjn27/ClimaX-AI-Powered-Disaster-Prediction-and-Resilience-Platform-Latest-Version"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="ClimaX repository" /></a><br/>
+<a href="https://clima-x-ai-powered-disaster-predict.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-00A67E?style=for-the-badge&logo=vercel&logoColor=white" alt="ClimaX live demo" /></a>
 
 </td>
 <td width="33%" valign="top" align="center">
 
-### 🏦 Vishwas AI
+<img src="https://img.shields.io/badge/TOP_PROJECT-Vishwas_AI-7C3AED?style=for-the-badge&logo=ai&logoColor=white" alt="Vishwas AI top project" />
+<br/>
+<img src="https://img.shields.io/badge/FinTech-F59E0B?style=flat-square" alt="FinTech" />
 
-**Smarter Credit Assessment for MSMEs**
+<a href="https://vishwas-ai-smarter-credit-assessmen.vercel.app"><img src="./assets/featured-projects/vishwas-ai.png" alt="Vishwas AI credit intelligence platform" width="100%" /></a>
+
+#### Smarter Credit Assessment for MSMEs
+
+*Trustworthy credit intelligence for growing businesses.*
 
 Explainable, alternate-data credit intelligence with role-based workflows.
 
-`FastAPI` `Mistral AI` `Agentic AI` `RAG`
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/Mistral_AI-FF7000?style=flat-square" alt="Mistral AI" /> <img src="https://img.shields.io/badge/Agentic_AI-7C3AED?style=flat-square" alt="Agentic AI" /> <img src="https://img.shields.io/badge/RAG-00A67E?style=flat-square" alt="RAG" />
 
-[Repository](https://github.com/vedantjn27/Vishwas-AI-Smarter-Credit-Assessment-for-Every-MSME) · [🚀 Live Demo](https://vishwas-ai-smarter-credit-assessmen.vercel.app)
+<a href="https://github.com/vedantjn27/Vishwas-AI-Smarter-Credit-Assessment-for-Every-MSME"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Vishwas AI repository" /></a><br/>
+<a href="https://vishwas-ai-smarter-credit-assessmen.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-00A67E?style=for-the-badge&logo=vercel&logoColor=white" alt="Vishwas AI live demo" /></a>
 
 </td>
 </tr>
@@ -285,20 +325,22 @@ Explainable, alternate-data credit intelligence with role-based workflows.
 
 | 🏆 Project | 📝 Description | 🛠️ Stack |
 |:-----------|:---------------|:---------|
-| [**🌊 NavAIgator**](https://github.com/vedantjn27/NavAIgator-AI-Powered-Maritime-Route-Optimization-Platform)<br/>[🚀 Live Demo](https://nav-ai-gator.vercel.app) | AI-Powered Maritime Route Optimization using Genetic Algorithms balancing time, fuel & safety | `TypeScript` `Python` `Next.js` |
-| [**🟢 PulsePoint AI**](https://github.com/vedantjn27/PulsePoint-AI-Where-Project-Health-Meets-Executive-Insight)<br/>[🚀 Live Demo](https://pulse-point-ai-where-project-health-roan.vercel.app) | Autonomous project-health intelligence — deterministic RAG scoring, agentic investigation, and executive-ready reports | `FastAPI` `React` `TypeScript` `Mistral AI` `Agentic AI` |
-| [**🛍️ ReTailor AI**](https://github.com/vedantjn27/ReTailorAI-Revolutionizing-Retail-Media-Advertising)<br/>[🚀 Live Demo](https://re-tailor-ai-tesco.vercel.app) | Full-stack Generative AI creative engine for the $140B+ retail media market — product photo to validated ad in minutes | `TypeScript` `Python` `Mistral AI` `HuggingFace` |
-| [**🛡️ SurakshaSetu**](https://github.com/vedantjn27/SurakshaSetu-Intellingent-AI-powered-federated-UBID-platform-for-secure-business-identity)<br/>[🚀 Live Demo](https://suraksha-setu-flame.vercel.app/) | Privacy-preserving federated UBID platform that resolves fragmented business records with explainable AI | `FastAPI` `Next.js` `MongoDB` `Mistral AI` `HMAC-SHA256` |
-| [**📚 MargDarshak**](https://github.com/vedantjn27/MargDarshak-AI-Powered-Program-Design-Intelligence-Platform-for-Education-NGOs)<br/>[🚀 Live Demo](https://marg-darshak-shikshalokam.vercel.app) | AI Platform for Education NGOs generating LFA & Theory of Change models with multilingual PDF/Excel/PPT export | `FastAPI` `MongoDB` `TypeScript` |
-| [**💊 PharmaSight**](https://github.com/vedantjn27/PharmaSight-AI-Powered-Drug-Shortage-Prediction-Final) | Next-gen pharmaceutical intelligence using deep learning & graph neural networks for drug shortage prediction | `Python` `TypeScript` `GNN` `FastAPI` |
-| [**🔗 ParkChain Nexus**](https://github.com/vedantjn27/ParkChain-Nexus-Blockchain-based-smart-parking-system) | Blockchain-based Smart Parking System with decentralized slot management | `TypeScript` `Blockchain` |
-| [**🤖 Samadhan AI**](https://github.com/vedantjn27/Samadhan-AI-Smart-Employee-Support-and-Ticket-Management-System) | Smart Employee Support & Ticket Management System powered by AI agents | `Python` `TypeScript` `AI/ML` |
-| [**🏎️ CarVerse Drive**](https://github.com/vedantjn27/CarVerse-Drive-A-Gamification-Engine-For-A-Real-Multi-Branch-Car-Dealership-Group)<br/>[🚀 Live Demo](https://car-verse-drive-a-gamification-engi.vercel.app) | Full-stack gamification engine that turns verified multi-branch dealership milestones into fair, live competition | `FastAPI` `React` `TypeScript` `Three.js` `Mistral AI` |
-| [**🚁 RescueVision**](https://github.com/vedantjn27/RescueVision-Drone-Based-Human-And-Animal-Detection-System-for-Disaster-Rescue) | Drone-Based Human & Animal Detection for Disaster Rescue using Computer Vision | `Python` `Computer Vision` `YOLO` |
+| **🌊 NavAIgator**<br/><img src="https://img.shields.io/badge/Maritime_%26_Logistics-0284C7?style=flat-square" alt="Maritime and Logistics" /><br/><a href="https://github.com/vedantjn27/NavAIgator-AI-Powered-Maritime-Route-Optimization-Platform"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Repository" /></a> <a href="https://nav-ai-gator.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-00A67E?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo" /></a> | AI-Powered Maritime Route Optimization using Genetic Algorithms balancing time, fuel & safety | `TypeScript` `Python` `Next.js` |
+| **🟢 PulsePoint AI**<br/><img src="https://img.shields.io/badge/Enterprise_AI-6C63FF?style=flat-square" alt="Enterprise AI" /><br/><a href="https://github.com/vedantjn27/PulsePoint-AI-Where-Project-Health-Meets-Executive-Insight"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Repository" /></a> <a href="https://pulse-point-ai-where-project-health-roan.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-00A67E?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo" /></a> | Autonomous project-health intelligence — deterministic RAG scoring, agentic investigation, and executive-ready reports | `FastAPI` `React` `TypeScript` `Mistral AI` `Agentic AI` |
+| **🛍️ ReTailor AI**<br/><img src="https://img.shields.io/badge/RetailTech-DB2777?style=flat-square" alt="RetailTech" /><br/><a href="https://github.com/vedantjn27/ReTailorAI-Revolutionizing-Retail-Media-Advertising"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Repository" /></a> <a href="https://re-tailor-ai-tesco.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-00A67E?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo" /></a> | Full-stack Generative AI creative engine for the $140B+ retail media market — product photo to validated ad in minutes | `TypeScript` `Python` `Mistral AI` `HuggingFace` |
+| **🛡️ SurakshaSetu**<br/><img src="https://img.shields.io/badge/GovTech_%26_Cybersecurity-0F766E?style=flat-square" alt="GovTech and Cybersecurity" /><br/><a href="https://github.com/vedantjn27/SurakshaSetu-Intellingent-AI-powered-federated-UBID-platform-for-secure-business-identity"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Repository" /></a> <a href="https://suraksha-setu-flame.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-00A67E?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo" /></a> | Privacy-preserving federated UBID platform that resolves fragmented business records with explainable AI | `FastAPI` `Next.js` `MongoDB` `Mistral AI` `HMAC-SHA256` |
+| **📚 MargDarshak**<br/><img src="https://img.shields.io/badge/EdTech-7C3AED?style=flat-square" alt="EdTech" /><br/><a href="https://github.com/vedantjn27/MargDarshak-AI-Powered-Program-Design-Intelligence-Platform-for-Education-NGOs"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Repository" /></a> <a href="https://marg-darshak-shikshalokam.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-00A67E?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo" /></a> | AI Platform for Education NGOs generating LFA & Theory of Change models with multilingual PDF/Excel/PPT export | `FastAPI` `MongoDB` `TypeScript` |
+| **💊 PharmaSight**<br/><img src="https://img.shields.io/badge/HealthTech-DC2626?style=flat-square" alt="HealthTech" /><br/><a href="https://github.com/vedantjn27/PharmaSight-AI-Powered-Drug-Shortage-Prediction-Final"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Repository" /></a> | Next-gen pharmaceutical intelligence using deep learning & graph neural networks for drug shortage prediction | `Python` `TypeScript` `GNN` `FastAPI` |
+| **🔗 ParkChain Nexus**<br/><img src="https://img.shields.io/badge/Smart_City_%26_Blockchain-F59E0B?style=flat-square" alt="Smart City and Blockchain" /><br/><a href="https://github.com/vedantjn27/ParkChain-Nexus-Blockchain-based-smart-parking-system"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Repository" /></a> | Blockchain-based Smart Parking System with decentralized slot management | `TypeScript` `Blockchain` |
+| **🤖 Samadhan AI**<br/><img src="https://img.shields.io/badge/Enterprise_AI-6C63FF?style=flat-square" alt="Enterprise AI" /><br/><a href="https://github.com/vedantjn27/Samadhan-AI-Smart-Employee-Support-and-Ticket-Management-System"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Repository" /></a> | Smart Employee Support & Ticket Management System powered by AI agents | `Python` `TypeScript` `AI/ML` |
+| **🏎️ CarVerse Drive**<br/><img src="https://img.shields.io/badge/AutoTech_%26_Gamification-EA580C?style=flat-square" alt="AutoTech and Gamification" /><br/><a href="https://github.com/vedantjn27/CarVerse-Drive-A-Gamification-Engine-For-A-Real-Multi-Branch-Car-Dealership-Group"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Repository" /></a> <a href="https://car-verse-drive-a-gamification-engi.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-00A67E?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo" /></a> | Full-stack gamification engine that turns verified multi-branch dealership milestones into fair, live competition | `FastAPI` `React` `TypeScript` `Three.js` `Mistral AI` |
+| **🚁 RescueVision**<br/><img src="https://img.shields.io/badge/DisasterTech_%26_Computer_Vision-DC2626?style=flat-square" alt="DisasterTech and Computer Vision" /><br/><a href="https://github.com/vedantjn27/RescueVision-Drone-Based-Human-And-Animal-Detection-System-for-Disaster-Rescue"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Repository" /></a> | Drone-Based Human & Animal Detection for Disaster Rescue using Computer Vision | `Python` `Computer Vision` `YOLO` |
 
 </div>
 
 ---
+
+<img src="./assets/section-divider.svg" width="100%" height="10" alt="" />
 
 ## 📊 GitHub Statistics
 
@@ -322,6 +364,8 @@ Explainable, alternate-data credit intelligence with role-based workflows.
 </div>
 
 ---
+
+<img src="./assets/section-divider.svg" width="100%" height="10" alt="" />
 
 ## 🏆 Achievements & Certifications
 
@@ -374,6 +418,8 @@ Explainable, alternate-data credit intelligence with role-based workflows.
 
 ---
 
+<img src="./assets/section-divider.svg" width="100%" height="10" alt="" />
+
 ## 🎓 Education
 
 <div align="center">
@@ -413,6 +459,8 @@ Explainable, alternate-data credit intelligence with role-based workflows.
 </div>
 
 ---
+
+<img src="./assets/section-divider.svg" width="100%" height="10" alt="" />
 
 ## 🌱 Leadership & Volunteering
 
@@ -466,6 +514,8 @@ Explainable, alternate-data credit intelligence with role-based workflows.
 
 ---
 
+<img src="./assets/section-divider.svg" width="100%" height="10" alt="" />
+
 ## 🎯 A Little More About Me
 
 <div align="center">
@@ -505,6 +555,8 @@ Explainable, alternate-data credit intelligence with role-based workflows.
 </div>
 
 ---
+
+<img src="./assets/section-divider.svg" width="100%" height="10" alt="" />
 
 ## 💡 Quote I Live By
 
