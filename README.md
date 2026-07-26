@@ -73,7 +73,7 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Have_an_AI_problem_worth_solving%3F-Let's_build_it.-6C63FF?style=for-the-badge&labelColor=0D1117" alt="Have an AI problem worth solving? Let's build it." />
+<img src="https://img.shields.io/badge/%F0%9F%92%A1_HAVE_AN_AI_PROBLEM_WORTH_SOLVING%3F-LET'S_BUILD_SOMETHING_EXTRAORDINARY-6C63FF?style=for-the-badge&labelColor=0D1117" alt="Have an AI problem worth solving? Let's build something extraordinary." />
 
 <br/><br/>
 
