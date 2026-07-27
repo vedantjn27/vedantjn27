@@ -355,7 +355,7 @@ Explainable, alternate-data credit intelligence with role-based workflows.
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=vedantjn27&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" width="600"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=vedantjn27&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" width="600" alt="Vedant Jain's GitHub contribution streak" />
 
 <br/><br/>
 
