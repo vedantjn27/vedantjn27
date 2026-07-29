@@ -16,8 +16,21 @@
 
 <br/><br/>
 
-<!-- Typing Animation BELOW badges -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&multiline=true&width=750&height=120&lines=Building+Intelligent+AI+Systems...;Turning+Ideas+into+Real-World+ML+Solutions;4x+National+Hackathon+Winner+%7C+CGPA+9.74%2F10" alt="Typing SVG" />
+<!-- Split Intro Cards: ASCII Portrait + Typing Introduction -->
+<table>
+<tr>
+<td width="42%" align="center" valign="middle">
+
+<img src="./ascii/WhatsApp%20Image%202026-07-07%20at%2014.52.27_ascii.svg" alt="Animated ASCII portrait of Vedant Jain" width="100%" />
+
+</td>
+<td width="58%" align="center" valign="middle">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&multiline=true&width=620&height=220&lines=Building+Intelligent+AI+Systems...;Turning+Ideas+into+Real-World+ML+Solutions;4x+National+Hackathon+Winner+%7C+CGPA+9.74%2F10" alt="Typing introduction" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -264,7 +277,7 @@
 <br/>
 <img src="https://img.shields.io/badge/Healthcare_AI-0F766E?style=flat-square" alt="Healthcare AI" />
 
-<a href="https://medvault-healthcare-document-privac.vercel.app"><img src="./assets/featured-projects/medvault.png" alt="MedVault healthcare document privacy pipeline" width="100%" /></a>
+<img src="https://raw.githubusercontent.com/vedantjn27/vedantjn27/main/assets/featured-projects/medvault.png" alt="MedVault healthcare document privacy pipeline" width="100%" />
 
 #### AI-Driven Healthcare Document Privacy Pipeline
 
@@ -284,7 +297,7 @@ Redacts 100+ PHI entity types across PDFs, DICOM, and HL7/FHIR.
 <br/>
 <img src="https://img.shields.io/badge/ClimateTech-0284C7?style=flat-square" alt="ClimateTech" />
 
-<a href="https://clima-x-ai-powered-disaster-predict.vercel.app"><img src="./assets/featured-projects/climax.png" alt="ClimaX climate resilience intelligence dashboard" width="100%" /></a>
+<img src="https://raw.githubusercontent.com/vedantjn27/vedantjn27/main/assets/featured-projects/climax.png" alt="ClimaX climate resilience intelligence dashboard" width="100%" />
 
 #### AI-First Disaster Resilience OS
 
@@ -304,7 +317,7 @@ IBM Granite LLM, agentic AI, RAG, QAOA, and blockchain with 88% prediction accur
 <br/>
 <img src="https://img.shields.io/badge/FinTech-F59E0B?style=flat-square" alt="FinTech" />
 
-<a href="https://vishwas-ai-smarter-credit-assessmen.vercel.app"><img src="./assets/featured-projects/vishwas-ai.png" alt="Vishwas AI credit intelligence platform" width="100%" /></a>
+<img src="https://raw.githubusercontent.com/vedantjn27/vedantjn27/main/assets/featured-projects/vishwas-ai.png" alt="Vishwas AI credit intelligence platform" width="100%" />
 
 #### Smarter Credit Assessment for MSMEs
 
