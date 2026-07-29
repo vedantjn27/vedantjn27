@@ -21,7 +21,7 @@
 <tr>
 <td width="42%" align="center" valign="middle">
 
-<img src="./ascii/WhatsApp%20Image%202026-07-07%20at%2014.52.27_ascii.svg" alt="Animated ASCII portrait of Vedant Jain" width="100%" />
+<img src="./ascii/Profile ascii.svg" alt="Animated ASCII portrait of Vedant Jain" width="100%" />
 
 </td>
 <td width="58%" align="center" valign="middle">
