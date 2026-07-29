@@ -26,7 +26,7 @@
 </td>
 <td width="58%" align="center" valign="middle">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=30&duration=1450&pause=50&color=8B85FF&center=true&vCenter=true&multiline=true&width=760&height=440&lines=Building+Intelligent+AI+Systems...;;Turning+Ideas+into+Real-World+ML+Solutions;;4x+Hackathon+Winner+%C2%B7+4+Publications;;Building+What+Matters." alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=30&duration=1450&pause=10&color=8B85FF&center=true&vCenter=true&multiline=true&width=760&height=440&lines=Building+Intelligent+AI+Systems...;;Turning+Ideas+into+Real-World+ML+Solutions;;4x+Hackathon+Winner+%C2%B7+4+Publications;;Building+What+Matters." alt="Animated introduction" />
 
 </td>
 </tr>
