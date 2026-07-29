@@ -26,19 +26,13 @@
 </td>
 <td width="58%" align="center" valign="middle">
 
-<img src="https://img.shields.io/badge/AI_ENGINEER_%C2%B7_RESEARCHER_%C2%B7_BUILDER-6C63FF?style=for-the-badge&labelColor=0D1117" alt="AI Engineer, Researcher, Builder" />
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=29&duration=2200&pause=650&color=8B85FF&center=true&vCenter=true&multiline=true&width=760&height=255&lines=Building+Intelligent+AI+Systems...;Turning+Ideas+into+Real-World+ML+Solutions;4x+Hackathon+Winner+%C2%B7+4+Publications;Agentic+AI+%C2%B7+RAG+%C2%B7+Full-Stack" alt="Typing introduction" />
+<img src="https://img.shields.io/badge/%E2%97%8F_%E2%97%8F_%E2%97%8F-terminal_%C2%B7_vedant%40ai-0D1117?style=for-the-badge&labelColor=0D1117&color=1B2430" alt="Terminal vedant at ai" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/AGENTIC_AI-7C3AED?style=for-the-badge" alt="Agentic AI" />
-&nbsp;
-<img src="https://img.shields.io/badge/RAG_SYSTEMS-0284C7?style=for-the-badge" alt="RAG Systems" />
-&nbsp;
-<img src="https://img.shields.io/badge/PRODUCTION_PRODUCTS-00A67E?style=for-the-badge" alt="Production Products" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=1150&pause=600&color=00D4AA&background=0D1117&center=false&vCenter=true&multiline=true&width=760&height=350&lines=vedant%40ai%3A%7E%24+whoami;%3E+Building+Intelligent+AI+Systems...;%3E+Turning+Ideas+into+Real-World+ML+Solutions;%3E+Agentic+AI+%C2%B7+RAG+%C2%B7+Full-Stack+Products;%3E+4x+Hackathon+Winner+%C2%B7+4+Publications;%3E+Status%3A+building%2C+learning%2C+shipping." alt="Animated terminal introduction" />
+
+<br/><sub><code>~/portfolio</code> &nbsp;•&nbsp; <i>Turning ideas into systems people can use.</i></sub>
 
 </td>
 </tr>
