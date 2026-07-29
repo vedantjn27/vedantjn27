@@ -26,7 +26,7 @@
 </td>
 <td width="58%" align="center" valign="middle">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=30&duration=1900&pause=300&color=8B85FF&center=true&vCenter=true&multiline=true&width=760&height=440&lines=Building+Intelligent+AI+Systems...;Turning+Ideas+into+Real-World+ML+Solutions;4x+Hackathon+Winner+%C2%B7+4+Publications;Building+What+Matters." alt="Animated introduction" />
+<img src="https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22Building%20Intelligent%20AI%20Systems...%22%2C%22lineHeight%22%3A1.85%7D%2C%7B%22text%22%3A%22Turning%20Ideas%20into%20Real-World%20ML%20Solutions%22%2C%22lineHeight%22%3A1.85%7D%2C%7B%22text%22%3A%224%C3%97%20Hackathon%20Winner%20%C2%B7%204%20Publications%22%2C%22lineHeight%22%3A1.85%7D%2C%7B%22text%22%3A%22Building%20What%20Matters.%22%2C%22lineHeight%22%3A1.85%7D%5D&font=Orbitron&color=%238B85FF&backgroundColor=%230D1117&width=760&height=440&fontSize=30&typingSpeed=0.035&pause=300&repeat=true&center=true&vCenter=true&border=false&cursorStyle=block&deletionBehavior=stay&fontWeight=800" alt="Animated introduction" />
 
 <br/>
 
