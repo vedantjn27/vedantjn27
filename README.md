@@ -21,12 +21,16 @@
 <tr>
 <td width="42%" align="center" valign="middle">
 
-<img src="./ascii/Profile ascii.svg" alt="Animated ASCII portrait of Vedant Jain" width="100%" />
+<img src="./ascii/WhatsApp%20Image%202026-07-07%20at%2014.52.27_ascii.svg" alt="Animated ASCII portrait of Vedant Jain" width="100%" />
 
 </td>
 <td width="58%" align="center" valign="middle">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=30&duration=1450&pause=5&color=8B85FF&center=true&vCenter=true&multiline=true&width=760&height=440&lines=Building+Intelligent+AI+Systems...;;Turning+Ideas+into+Real-World+ML+Solutions;;4x+Hackathon+Winner+%C2%B7+4+Publications;;Building+What+Matters." alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=30&duration=1900&pause=300&color=8B85FF&center=true&vCenter=true&multiline=true&width=760&height=440&lines=Building+Intelligent+AI+Systems...;;Turning+Ideas+into+Real-World+ML+Solutions;;4x+Hackathon+Winner+%C2%B7+4+Publications;;Building+What+Matters." alt="Animated introduction" />
+
+<br/>
+
+<a href="./Vedant_Jain_Resume.pdf"><img src="https://img.shields.io/badge/Download_R%C3%A9sum%C3%A9-PDF-FF6B6B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Vedant Jain's résumé" /></a>
 
 </td>
 </tr>
