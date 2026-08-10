@@ -24,7 +24,7 @@ jobs:
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-            - name: Set portfolio rank display
+      - name: Set portfolio rank display
         run: |
           perl -0pi -e 's/(<text(?=[^>]*class="rank-text")[^>]*>)[^<]+(<\/text>)/${1}A+${2}/g' profile/stats.svg
 
