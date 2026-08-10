@@ -33,21 +33,18 @@ jobs:
           stats_file = Path("profile/stats.svg")
           svg = stats_file.read_text(encoding="utf-8")
 
-          pattern = r'''(<text\b(?=[^>]*\bclass=["'][^"']*\brank-text\b[^"']*["'])[^>]*>)[^<]*(</text>)'''
           updated_svg, replacements = re.subn(
-              pattern,
+              r"(<text\b[^>]*>)\s*C\s*(</text>)",
               r"\g<1>A+\g<2>",
               svg,
               count=1,
-              flags=re.DOTALL,
           )
 
           if replacements != 1:
-              raise SystemExit("Could not locate the rank text in profile/stats.svg")
+              raise SystemExit("Could not find the generated C rank in profile/stats.svg")
 
           stats_file.write_text(updated_svg, encoding="utf-8")
           PY
-
       - name: Generate top languages card
         uses: stats-organization/github-readme-stats-action@v2
         with:
