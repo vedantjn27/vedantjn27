@@ -364,10 +364,10 @@ Explainable, alternate-data credit intelligence with role-based workflows.
 <div align="center">
 
 <a href="https://github.com/vedantjn27">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vedantjn27&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=ffffff"/>
+  <img height="180em" src="./profile/stats.svg" alt="Vedant Jain's GitHub statistics"/>
 </a>
 <a href="https://github.com/vedantjn27">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vedantjn27&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=ffffff"/>
+  <img height="180em" src="./profile/top-langs.svg" alt="Vedant Jain's most used languages"/>
 </a>
 
 <br/>
