@@ -26,7 +26,7 @@ jobs:
 
       - name: Set portfolio rank display
         run: |
-         perl -0pi -e 's!(</svg>\s*)\z!<circle cx="425" cy="125" r="25" fill="#0D1117"/><text x="425" y="126" text-anchor="middle" dominant-baseline="middle" fill="#F8FAFC" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="24" font-weight="800">A+</text>$1!s' profile/stats.svg
+         perl -0pi -e 's{(<text\b(?=[^>]*\bclass=.[^>]*rank-text)[^>]*>)[^<]*(</text>)}${1}A+${2}}gs' profile/stats.svg
 
       - name: Generate top languages card
         uses: stats-organization/github-readme-stats-action@v2
