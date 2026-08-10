@@ -2,7 +2,7 @@ name: Update GitHub README Stats
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Daily at midnight UTC
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 permissions:
@@ -20,15 +20,19 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=8B85FF&icon_color=00D4AA&text_color=FFFFFF
+          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&hide_border=false&border_radius=14&border_color=6C63FF&bg_color=0D1117&title_color=9B8CFF&icon_color=00D4AA&text_color=F8FAFC
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set portfolio rank display
+        run: |
+          perl -0pi -e 's/(<g data-testid="rank-circle">.*?<text[^>]*>)[^<]*(<\/text>)/$1A+$2/s' profile/stats.svg
 
       - name: Generate top languages card
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=8B85FF&text_color=FFFFFF
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&hide_border=false&border_radius=14&border_color=6C63FF&bg_color=0D1117&title_color=9B8CFF&text_color=F8FAFC
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
